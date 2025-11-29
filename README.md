@@ -1,6 +1,10 @@
 # 📘 Unified Phishing Detection Framework  
 ### *A Multi-Model Approach Using ML and User Input Integration*
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Ensemble-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 This repository contains my undergraduate thesis project:  
 **“Unified Phishing Detection Framework: A Multi-Model Approach with Ensembled Methods & User Input Integration.”**
 
