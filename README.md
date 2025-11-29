@@ -69,8 +69,20 @@ Unified-Phishing-Detection-Framework/
 - Support Vector Machine (SVM)  
 - Random Forest Classifier  
 - Gradient Boosting Classifier  
-- Ensemble evaluation strategy  
+- Ensemble evaluation strategy
 
+## 📉 Visual Accuracy Comparison (ASCII Bar Chart)
+
+97%    | Logistic Regression          | ██████████████████████████  
+97%    | Neural Network (NN)          | ██████████████████████████  
+96.91% | Ensemble Model               | █████████████████████████  
+96%    | Naive Bayes (NB)             | ████████████████████████  
+96%    | XGBoost                      | ████████████████████████  
+95.89% | CNN                          | ████████████████████████  
+90%    | Decision Tree (DT)           | ████████████████  
+65%    | KNN                          | ██████████  
+
+---
 
 ## 🚀 How to Run
 1. Clone the repository:  
